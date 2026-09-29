@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790702276310,
+      "tag": "0000_create_psycase_cases_and_notes",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790702794251,
+      "tag": "0001_editable_constellation_map",
+      "breakpoints": true
+    }
+  ]
+}
